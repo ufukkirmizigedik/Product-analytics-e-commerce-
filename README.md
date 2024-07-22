@@ -30,3 +30,7 @@
 
 ```bash
 pip install -r requirements.txt
+
+
+Авторы
+Этот анализ был проведен Уфук Кырмызыгедик
